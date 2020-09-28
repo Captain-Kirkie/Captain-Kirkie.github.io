@@ -1,0 +1,14 @@
+body{background-color:#0000ff;}
+#myName{font-style:Bold; color: #FF00FF;}
+
+h3{color:#FF00FF; font-family:verdana;}
+
+#dialogue{color: #ffff00; font-family: helvetica; }
+
+.Donkey{color:#ff0000; font-style: Bold;}
+.Shrek{color: #00FF00; } 
+#kirk{border-radius: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px; }
