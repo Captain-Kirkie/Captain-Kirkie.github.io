@@ -1,14 +1,18 @@
-body{background-color:#0000ff;}
+
+
+body{background-image:url(https://i.ytimg.com/vi/-MKapbz0GIo/maxresdefault.jpg);}
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Monoton&family=Montserrat&family=Playfair+Display&family=Roboto&display=swap');
+
+#titleHeader{text-align:center; color: #FFFFFF; font-size: 50px; font-family: 'Monoton', cursive;}
+
 #myName{font-style:Bold; color: #FF00FF;}
 
-h3{color:#FF00FF; font-family:verdana;}
+#profKirk{color:#FFFFFF; font-family:verdana; text-align:center; position: absolute; top:225px; left:20px; right:20px;}
 
 #dialogue{color: #ffff00; font-family: helvetica; }
-
+#ogreList{color: #ff0000; }
 .Donkey{color:#ff0000; font-style: Bold;}
 .Shrek{color: #00FF00; } 
-#kirk{border-radius: 50%;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px; }
+#kirk{border-radius: 50%; text-align: center;}
+.kirkPic{text-align: center; }
